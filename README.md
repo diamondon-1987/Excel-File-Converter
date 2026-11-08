@@ -196,3 +196,6 @@ This repository serves as the official landing page for Excel Converter. The sof
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Excel Converter today!**
+
+---
+**Last updated:** 2026-11-08 13:07:16 UTC
